@@ -1,68 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## | <u>**Monster Rolodex**</u> |
 
-## Available Scripts
+#### By Jimmy Zebroski
+###### Initiated August 12th, 2019.
 
-In the project directory, you can run:
+----------
 
-### `npm start`
+## Description
+This is the first project completed in a Udemy Course.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Known Bugs
+* Zero known bugs.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Specifications
+  1. Shows List of Monsters.
+  2. Can search monsters by name using search bar.
+  
 
-### `npm test`
+### Setup Instructions
+  * Clone repository
+  * Add it to your specified file path using 'git clone "repository link"'
+  * > Navigate to the root directory in the terminal
+  * > Run the command "npm install" to install all dependancies
+  * > Run npm run start.
+  * > Open browser and go to localhost/8080
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
 
-### `npm run build`
+* Visual Studio Code(IDE)
+* HTML5
+* CSS
+* Javascript
+* ES6
+* React
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Contributors
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Author | GitHub | Email |
+|--------|:------:|:-----:|
+| Jimmy Zebroski | [zebrozkii](https://github.com/zebrozkii) |  [zebrozkii@gmail.com](zebrozkii@gmail.com) |
 
-### `npm run eject`
+## Support and contact details
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+If you have any feedback or concerns, please contact one of the contributors.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2019 Jimmy Zebroski. All Rights Reserved.
+```
+MIT License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Copyright (c) 2019 Jimmy Zebroski.
