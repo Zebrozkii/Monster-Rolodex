@@ -19,10 +19,10 @@ This is the first project completed in a Udemy Course.
 ### Setup Instructions
   * Clone repository
   * Add it to your specified file path using 'git clone "repository link"'
-  * > Navigate to the root directory in the terminal
-  * > Run the command "npm install" to install all dependancies
-  * > Run npm run start.
-  * > Open browser and go to localhost/8080
+  *  Navigate to the root directory in the terminal
+  *  Run the command "npm install" to install all dependancies
+  *  Run npm run start.
+  *  Open browser and go to localhost/8080
 
 ## Built With
 
