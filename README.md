@@ -23,6 +23,7 @@ This is the first project completed in a Udemy Course.
   *  Run the command "npm install" to install all dependancies
   *  Run npm run start.
   *  Open browser and go to localhost/8080
+  *  Website is also live on gh-pages https://zebrozkii.github.io/Monster-Rolodex/
 
 ## Built With
 
